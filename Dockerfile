@@ -1,2 +1,2 @@
-FROM ghcr.io/seav1/chonz:main
+FROM jfu888/chonz
 USER 10088
