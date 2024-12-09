@@ -1,2 +1,2 @@
-FROM ghcr.io/seav1/chonz:main
+FROM tarogod/nzx
 USER 10088
