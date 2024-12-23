@@ -1,2 +1,2 @@
-FROM tarogod/nzx
+FROM tarogod/newnz
 USER 10088
